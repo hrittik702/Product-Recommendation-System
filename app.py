@@ -2,10 +2,9 @@ import streamlit as st
 from data_loader import load_data
 from engine import get_recommendations
 
-# Page Configuration
 st.set_page_config(page_title="REC-Cart | Omnitrix AI", layout="wide", initial_sidebar_state="collapsed")
 
-# Ben 10 "Omnitrix" Emerald Green Theme Styling
+
 st.markdown("""
     <style>
     /* Main Background */
@@ -71,7 +70,6 @@ st.markdown("""
 
 df = load_data()
 
-# --- SESSION STATE INITIALIZATION ---
 if "current_item" not in st.session_state:
     st.session_state.current_item = None
 if "show_dialog" not in st.session_state:
@@ -79,7 +77,7 @@ if "show_dialog" not in st.session_state:
 if "liked_items" not in st.session_state:
     st.session_state.liked_items = []
 
-# --- DIALOG (POPUP) ---
+
 @st.dialog("PRODUCT DETAILS", width="large")
 def product_popup():
     item = st.session_state.current_item
@@ -100,7 +98,6 @@ def product_popup():
             if st.button("🛒 ADD TO CART", key=f"cart_{item['id']}"):
                 st.toast(f"{item['name']} added to cart!")
         with btn_col2:
-            # Check if already liked
             is_liked = item['name'] in st.session_state.liked_items
             label = "❤️ LIKED" if is_liked else "🤍 LIKE"
             if st.button(label, key=f"popup_like_{item['id']}"):
@@ -121,9 +118,7 @@ def product_popup():
                 st.caption(f"**{r_row['name']}**")
                 if st.button("EXPLORE", key=f"rec_{r_row['id']}"):
                     st.session_state.current_item = r_row
-                    st.rerun()
 
-# --- UI HEADER ---
 st.markdown("""
     <div class="header-box">
         <h1 style="margin: 0; letter-spacing: 7px; font-weight: 900; color: #16AE58;">
@@ -133,12 +128,12 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-# --- SEARCH ---
+
 _, mid, _ = st.columns([1, 2, 1])
 with mid:
     query = st.text_input("", placeholder="Search for products across the gallery...")
 
-# --- PERSONALIZED ROW (Inspired by Likes) ---
+
 if st.session_state.liked_items:
     st.write("### ✨ Inspired by Your Likes")
     last_liked = st.session_state.liked_items[-1]
@@ -153,7 +148,7 @@ if st.session_state.liked_items:
                 st.rerun()
     st.divider()
 
-# --- MAIN GRID ---
+
 display_df = df[df['name'].str.contains(query, case=False) | df['tags'].str.contains(query, case=False)] if query else df
 
 idx = 0
@@ -177,6 +172,6 @@ for _ in range(rows):
                     st.rerun()
             idx += 1
 
-# --- PERSISTENT POPUP TRIGGER ---
+
 if st.session_state.show_dialog:
     product_popup()
