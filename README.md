@@ -32,7 +32,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Ansh.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
+        <img src="profile/Ansh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
       </a>
       <br/><br/><b>Ansh Jaiswal</b>
       <br/><sub>2407370130022</sub>
