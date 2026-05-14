@@ -21,56 +21,65 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 <div align="center">
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="160" valign="top">
-      <img src="profile/Harsh.png" width="80" height="80" align="left" alt="Harsh Shukla" />
-      <br clear="all"/>
-      <br/><b>Harsh Shukla</b>
+<table>
+  <tr valign="top">
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/Harsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Harsh Shukla" />
+      </a>
+      <br/><br/><b>Harsh Shukla</b>
       <br/><sub>2407370130031</sub>
     </td>
-    <td align="center" width="160" valign="top">
-      <img src="profile/Ansh.jpeg" width="80" height="80" align="left" alt="Ansh Jaiswal" />
-      <br clear="all"/>
-      <br/><b>Ansh Jaiswal</b>
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/Ansh.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
+      </a>
+      <br/><br/><b>Ansh Jaiswal</b>
       <br/><sub>2407370130022</sub>
     </td>
-    <td align="center" width="160" valign="top">
-      <img src="profile/gagan.jpeg" width="80" height="80" align="left" alt="Gagan Kumar" />
-      <br clear="all"/>
-      <br/><b>Gagan Kumar</b>
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/gagan.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
+      </a>
+      <br/><br/><b>Gagan Kumar</b>
       <br/><sub>2407370130028</sub>
     </td>
-    <td align="center" width="160" valign="top">
-      <img src="profile/image.png" width="80" height="80" align="left" alt="Rishi Kumar Pathak" />
-      <br clear="all"/>
-      <br/><b>Rishi Kumar Pathak</b>
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/image.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Rishi Kumar Pathak" />
+      </a>
+      <br/><br/><b>Rishi Kumar Pathak</b>
       <br/><sub>2407370130050</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="160" valign="top">
-      <img src="profile/Adarsh.jpeg" width="80" height="80" align="left" alt="Adarsh Kasaudhan" />
-      <br clear="all"/>
-      <br/><b>Adarsh Kasaudhan</b>
+
+  <tr valign="top">
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/Adarsh.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Adarsh Kasaudhan" />
+      </a>
+      <br/><br/><b>Adarsh Kasaudhan</b>
       <br/><sub>2407370130005</sub>
     </td>
-    <td align="center" width="160" valign="top">
-      <img src="profile/Abhishek.jpeg" width="80" height="80" align="left" alt="Abhishek Paswan" />
-      <br clear="all"/>
-      <br/><b>Abhishek Paswan</b>
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/Abhishek.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhishek Paswan" />
+      </a>
+      <br/><br/><b>Abhishek Paswan</b>
       <br/><sub>2407370130003</sub>
     </td>
-    <td align="center" width="160" valign="top">
-      <img src="profile/Abhinav.jpeg" width="80" height="80" align="left" alt="Abhinav Arya" />
-      <br clear="all"/>
-      <br/><b>Abhinav Arya</b>
+    <td align="center" width="160">
+      <a href="#">
+        <img src="profile/Abhinav.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhinav Arya" />
+      </a>
+      <br/><br/><b>Abhinav Arya</b>
       <br/><sub>2407370130001</sub>
     </td>
   </tr>
 </table>
 
 </div>
+
 ## `// OVERVIEW`
 
 > The **Product Recommendation System** helps users discover products that match their preferences and interests. It combines **Collaborative Filtering** (based on similar users) and **Content-Based Filtering** (based on product attributes) to deliver accurate, personalized suggestions from a custom-built CSV dataset — all through an interactive **Streamlit** web interface.
