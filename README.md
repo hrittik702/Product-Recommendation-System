@@ -40,7 +40,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/gagan.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
+        <img src="profile/Gagan.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
       </a>
       <br/><br/><b>Gagan Kumar</b>
       <br/><sub>2407370130028</sub>
