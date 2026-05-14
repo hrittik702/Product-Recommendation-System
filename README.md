@@ -24,12 +24,12 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 <table>
   <tr>
     <td align="center">
-  <img src="profile/image.png/?name=Ansh+Jaiswal&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
+  <img src="profile/Ansh.jpeg/?name=Ansh+Jaiswal&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
        width="70" 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
   <br/><b>Ansh Jaiswal</b>
-  <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  <br/><img src="https://img.shields.io/badge/2407370130022-00ff99?style=flat-square&logoColor=0a0a2e"/>
 </td>
     <td align="center">
   <img src="profile/image.png/?name=Gagan+Kumar&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
@@ -37,7 +37,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
   <br/><b>Gagan Kumar</b>
-  <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  <br/><img src="https://img.shields.io/badge/2407370130028-00ff99?style=flat-square&logoColor=0a0a2e"/>
 </td>
     <td align="center">
   <img src="profile/Adarsh.jpeg/?name=Adarsh+Kasaudhan&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
@@ -45,7 +45,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
        <br/><b>Adarsh Kasaudhan</b>
-       <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+       <br/><img src="https://img.shields.io/badge/2407370130005-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
     <td align="center">
   <img src="profile/image.png/?name=Rishi+Kumar+Pathak&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
@@ -53,7 +53,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
   <br/><b>Rishi Kumar Pathak</b>
-  <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  <br/><img src="https://img.shields.io/badge/2407370130050-00ff99?style=flat-square&logoColor=0a0a2e"/>
 </td>
     <td align="center">
   <img src="profile\abhinav.jpeg/?name=Abhinav+Arya&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
@@ -61,22 +61,22 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
   <br/><b>Abhinav Arya</b>
-  <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  <br/><img src="https://img.shields.io/badge/2407370130001-00ff99?style=flat-square&logoColor=0a0a2e"/>
 </td>
     <td align="center">
-  <img src="profile/image.png/?name=Abhishek+Paswan&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
+  <img src="profile/Abhishek.jpeg/?name=Abhishek+Paswan&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
        width="70" 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
   <br/><b>Abhishek Paswan</b>
-  <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  <br/><img src="https://img.shields.io/badge/2407370130003-00ff99?style=flat-square&logoColor=0a0a2e"/>
 <td align="center">
   <img src="profile/Harsh.jpg/?name=Harsh+Shukla&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" 
        width="70" 
        height="70" 
        style="object-fit: cover; border-radius: 50%;" />
   <br/><b>Harsh Shukla</b>
-  <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  <br/><img src="https://img.shields.io/badge/2407370130031-00ff99?style=flat-square&logoColor=0a0a2e"/>
 </td>
   </tr>
 </table>
