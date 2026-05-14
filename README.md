@@ -15,67 +15,57 @@
 </div>
 
 ---
-<div align="center">
+## `// OUR TEAM`
+This project was built collaboratively by a team of **7 members** from [Rajkiya Engineering College, Ambedkar Nagar](https://recabn.ac.in/).
 
+<div align="center">
 <br/>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/Ansh.jpeg">
-        <img src="profile/Ansh.jpeg" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Ansh Jaiswal" />
-      </a>
-      <br clear="all" />
-      <br/><b>Ansh Jaiswal</b>
-      <br/><img src="https://img.shields.io/badge/2407370130022-00ff99?style=flat-square&logoColor=0a0a2e"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/gagan.jpeg">
-        <img src="profile/gagan.jpeg" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Gagan Kumar" />
-      </a>
-      <br clear="all" />
-      <br/><b>Gagan Kumar</b>
-      <br/><img src="https://img.shields.io/badge/2407370130028-00ff99?style=flat-square&logoColor=0a0a2e"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/Adarsh.jpeg">
-        <img src="profile/Adarsh.jpeg" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Adarsh Kasaudhan" />
-      </a>
-      <br clear="all" />
-      <br/><b>Adarsh Kasaudhan</b>
-      <br/><img src="https://img.shields.io/badge/2407370130005-00ff99?style=flat-square&logoColor=0a0a2e"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/image.png">
-        <img src="profile/image.png" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Rishi Kumar Pathak" />
-      </a>
-      <br clear="all" />
-      <br/><b>Rishi Kumar Pathak</b>
-      <br/><img src="https://img.shields.io/badge/2407370130050-00ff99?style=flat-square&logoColor=0a0a2e"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/Abhinav.jpeg">
-        <img src="profile/Abhinav.jpeg" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Abhinav Arya" />
-      </a>
-      <br clear="all" />
-      <br/><b>Abhinav Arya</b>
-      <br/><img src="https://img.shields.io/badge/2407370130001-00ff99?style=flat-square&logoColor=0a0a2e"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/Abhishek.jpeg">
-        <img src="profile/Abhishek.jpeg" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Abhishek Paswan" />
-      </a>
-      <br clear="all" />
-      <br/><b>Abhishek Paswan</b>
-      <br/><img src="https://img.shields.io/badge/2407370130003-00ff99?style=flat-square&logoColor=0a0a2e"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harsh-Shukla-IT/Product-Recommendation-System/blob/main/profile/Harsh.png">
-        <img src="profile/Harsh.png" width="75" height="75" align="left" style="border-radius: 50%; max-width: 100%; object-fit: cover;" alt="Harsh Shukla" />
-      </a>
-      <br clear="all" />
+    <td align="center" width="160" valign="top">
+      <img src="profile/Harsh.png" width="80" height="80" align="left" alt="Harsh Shukla" />
+      <br clear="all"/>
       <br/><b>Harsh Shukla</b>
-      <br/><img src="https://img.shields.io/badge/2407370130031-00ff99?style=flat-square&logoColor=0a0a2e"/>
+      <br/><sub>2407370130031</sub>
+    </td>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Ansh.jpeg" width="80" height="80" align="left" alt="Ansh Jaiswal" />
+      <br clear="all"/>
+      <br/><b>Ansh Jaiswal</b>
+      <br/><sub>2407370130022</sub>
+    </td>
+    <td align="center" width="160" valign="top">
+      <img src="profile/gagan.jpeg" width="80" height="80" align="left" alt="Gagan Kumar" />
+      <br clear="all"/>
+      <br/><b>Gagan Kumar</b>
+      <br/><sub>2407370130028</sub>
+    </td>
+    <td align="center" width="160" valign="top">
+      <img src="profile/image.png" width="80" height="80" align="left" alt="Rishi Kumar Pathak" />
+      <br clear="all"/>
+      <br/><b>Rishi Kumar Pathak</b>
+      <br/><sub>2407370130050</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Adarsh.jpeg" width="80" height="80" align="left" alt="Adarsh Kasaudhan" />
+      <br clear="all"/>
+      <br/><b>Adarsh Kasaudhan</b>
+      <br/><sub>2407370130005</sub>
+    </td>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Abhishek.jpeg" width="80" height="80" align="left" alt="Abhishek Paswan" />
+      <br clear="all"/>
+      <br/><b>Abhishek Paswan</b>
+      <br/><sub>2407370130003</sub>
+    </td>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Abhinav.jpeg" width="80" height="80" align="left" alt="Abhinav Arya" />
+      <br clear="all"/>
+      <br/><b>Abhinav Arya</b>
+      <br/><sub>2407370130001</sub>
     </td>
   </tr>
 </table>
