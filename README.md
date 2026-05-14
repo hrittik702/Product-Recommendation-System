@@ -21,48 +21,48 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="top">
-      <img src="profile/Ansh.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Ansh Jaiswal" />
-      <br/><b>Ansh Jaiswal</b>
-      <br/><img src="https://img.shields.io/badge/2407370130022-00ff99?style=flat-square&logoColor=0a0a2e"/>
+    <td align="center" width="150">
+      <img src="profile/Harsh.png" width="80" style="border-radius:50%;" /><br />
+      <b>Harsh Shukla</b><br />
+      <b>2407370130031</b>
     </td>
-    <td align="center" valign="top">
-      <img src="profile/gagan.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Gagan Kumar" />
-      <br/><b>Gagan Kumar</b>
-      <br/><img src="https://img.shields.io/badge/2407370130028-00ff99?style=flat-square&logoColor=0a0a2e"/>
+    <td align="center" width="150">
+      <img src="profile/Ansh.jpeg" width="80" style="border-radius:50%;" /><br />
+      <b>Ansh Jaiswal</b><br />
+      <b>2407370130022</b>
     </td>
-    <td align="center" valign="top">
-      <img src="profile/Adarsh.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Adarsh Kasaudhan" />
-      <br/><b>Adarsh Kasaudhan</b>
-      <br/><img src="https://img.shields.io/badge/2407370130005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+    <td align="center" width="150">
+      <img src="profile/gagan.jpeg" width="80" style="border-radius:50%;" /><br />
+      <b>Gagan Kumar</b><br />
+      <b>2407370130028</b>
     </td>
-    <td align="center" valign="top">
-      <img src="profile/image.png" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Rishi Kumar Pathak" />
-      <br/><b>Rishi Kumar Pathak</b>
-      <br/><img src="https://img.shields.io/badge/2407370130050-00ff99?style=flat-square&logoColor=0a0a2e"/>
+    <td align="center" width="150">
+      <img src="profile/image.png" width="80" style="border-radius:50%;" /><br />
+      <b>Rishi Kumar Pathak</b><br />
+      <b>2407370130050</b>
     </td>
-    <td align="center" valign="top">
-      <img src="profile/Abhinav.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Abhinav Arya" />
-      <br/><b>Abhinav Arya</b>
-      <br/><img src="https://img.shields.io/badge/2407370130001-00ff99?style=flat-square&logoColor=0a0a2e"/>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="profile/Adarsh.jpeg" width="80" style="border-radius:50%;" /><br />
+      <b>Adarsh Kasaudhan</b><br />
+      <b>2407370130005</b>
     </td>
-    <td align="center" valign="top">
-      <img src="profile/Abhishek.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Abhishek Paswan" />
-      <br/><b>Abhishek Paswan</b>
-      <br/><img src="https://img.shields.io/badge/2407370130003-00ff99?style=flat-square&logoColor=0a0a2e"/>
+    <td align="center" width="150">
+      <img src="profile/Abhishek.jpeg" width="80" style="border-radius:50%;" /><br />
+      <b>Abhishek Paswan</b><br />
+      <b>2407370130003</b>
     </td>
-    <td align="center" valign="top">
-      <img src="profile/Harsh.png" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Harsh Shukla" />
-      <br/><b>Harsh Shukla</b>
-      <br/><img src="https://img.shields.io/badge/2407370130031-00ff99?style=flat-square&logoColor=0a0a2e"/>
+    <td align="center" width="150">
+      <img src="profile/Abhinav.jpeg" width="80" style="border-radius:50%;" /><br />
+      <b>Abhinav Arya</b><br />
+      <b>2407370130001</b>
     </td>
   </tr>
 </table>
-
 </div>
----
 
 ## `// OVERVIEW`
 
