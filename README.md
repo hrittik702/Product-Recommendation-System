@@ -17,53 +17,53 @@
 ---
 ## `// OUR TEAM`
 This project was built collaboratively by a team of **7 members** from [Rajkiya Engineering College, Ambedkar Nagar](https://recabn.ac.in/).
-<div align="center">
 
+<div align="center">
 <br/>
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="profile/Harsh.png" width="80" style="border-radius:50%;" /><br />
-      <b>Harsh Shukla</b><br />
-      <b>2407370130031</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Harsh.png?s=80" width="80" height="80" alt="Harsh Shukla" />
+      <br/><br/><b>Harsh Shukla</b>
+      <br/><sub>2407370130031</sub>
     </td>
-    <td align="center" width="150">
-      <img src="profile/Ansh.jpeg" width="80" style="border-radius:50%;" /><br />
-      <b>Ansh Jaiswal</b><br />
-      <b>2407370130022</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Ansh.jpeg?s=80" width="80" height="80" alt="Ansh Jaiswal" />
+      <br/><br/><b>Ansh Jaiswal</b>
+      <br/><sub>2407370130022</sub>
     </td>
-    <td align="center" width="150">
-      <img src="profile/gagan.jpeg" width="80" style="border-radius:50%;" /><br />
-      <b>Gagan Kumar</b><br />
-      <b>2407370130028</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/gagan.jpeg?s=80" width="80" height="80" alt="Gagan Kumar" />
+      <br/><br/><b>Gagan Kumar</b>
+      <br/><sub>2407370130028</sub>
     </td>
-    <td align="center" width="150">
-      <img src="profile/image.png" width="80" style="border-radius:50%;" /><br />
-      <b>Rishi Kumar Pathak</b><br />
-      <b>2407370130050</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/image.png?s=80" width="80" height="80" alt="Rishi Kumar Pathak" />
+      <br/><br/><b>Rishi Kumar Pathak</b>
+      <br/><sub>2407370130050</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
-      <img src="profile/Adarsh.jpeg" width="80" style="border-radius:50%;" /><br />
-      <b>Adarsh Kasaudhan</b><br />
-      <b>2407370130005</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Adarsh.jpeg?s=80" width="80" height="80" alt="Adarsh Kasaudhan" />
+      <br/><br/><b>Adarsh Kasaudhan</b>
+      <br/><sub>2407370130005</sub>
     </td>
-    <td align="center" width="150">
-      <img src="profile/Abhishek.jpeg" width="80" style="border-radius:50%;" /><br />
-      <b>Abhishek Paswan</b><br />
-      <b>2407370130003</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Abhishek.jpeg?s=80" width="80" height="80" alt="Abhishek Paswan" />
+      <br/><br/><b>Abhishek Paswan</b>
+      <br/><sub>2407370130003</sub>
     </td>
-    <td align="center" width="150">
-      <img src="profile/Abhinav.jpeg" width="80" style="border-radius:50%;" /><br />
-      <b>Abhinav Arya</b><br />
-      <b>2407370130001</b>
+    <td align="center" width="160" valign="top">
+      <img src="profile/Abhinav.jpeg?s=80" width="80" height="80" alt="Abhinav Arya" />
+      <br/><br/><b>Abhinav Arya</b>
+      <br/><sub>2407370130001</sub>
     </td>
   </tr>
 </table>
-</div>
 
+</div>
 ## `// OVERVIEW`
 
 > The **Product Recommendation System** helps users discover products that match their preferences and interests. It combines **Collaborative Filtering** (based on similar users) and **Content-Based Filtering** (based on product attributes) to deliver accurate, personalized suggestions from a custom-built CSV dataset — all through an interactive **Streamlit** web interface.
