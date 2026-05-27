@@ -24,28 +24,28 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
   <tr valign="top">
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/harsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Harsh Shukla" />
+        <img src="profile/Harsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Harsh Shukla" />
       </a>
       <br/><br/><b>Harsh Shukla</b>
       <br/><sub>2407370130031</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/ansh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
+        <img src="profile/Ansh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
       </a>
       <br/><br/><b>Ansh Jaiswal</b>
       <br/><sub>2407370130022</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/gagan.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
+        <img src="profile/Gagan.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
       </a>
       <br/><br/><b>Gagan Kumar</b>
       <br/><sub>2407370130028</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/rishi.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Rishi Kumar Pathak" />
+        <img src="profile/Rishi.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Rishi Kumar Pathak" />
       </a>
       <br/><br/><b>Rishi Kumar Pathak</b>
       <br/><sub>2407370130050</sub>
