@@ -87,13 +87,13 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 
 ## FEATURES
 
-| Icon | Feature | Description |
-|:---:|---|---|
-| 🤝 | **Collaborative Filtering** | Finds users with similar behavior and recommends what they liked |
-| 📦 | **Content-Based Filtering** | Suggests products that share attributes with ones users already like |
-| 🌐 | **Streamlit Web UI** | Interactive browser-based interface — easy to use for everyone |
-| 📂 | **Custom CSV Dataset** | Powered by our own curated and cleaned product data |
-| ⚡ | **Fast & Efficient** | Optimized processing with Pandas and Scikit-learn |
+| Feature | Description |
+|---|---|
+| 🤝 **Collaborative Filtering** | Finds users with similar behavior and recommends what they liked |
+| 📦 **Content-Based Filtering** | Suggests products that share attributes with ones users already like |
+| 🌐 **Streamlit Web UI** | Interactive browser-based interface — easy to use for everyone |
+| 📂 **Custom CSV Dataset** | Powered by our own curated and cleaned product data |
+| ⚡ **Fast & Efficient** | Optimized processing with Pandas and Scikit-learn |
 
 ---
 
