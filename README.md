@@ -50,7 +50,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
       <br/><br/><b>Rishi Kumar Pathak</b>
       <br/><sub>2407370130050</sub>
     </td>
-  </tr>```bash
+  </tr>
 
   <tr valign="top">
     <td align="center" width="160">
