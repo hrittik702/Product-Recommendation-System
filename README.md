@@ -26,28 +26,28 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
       <a href="#">
         <img src="profile/Harsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Harsh Shukla" />
       </a>
-      <br/><br/><b>Harsh Shukla</b>
+      <br/><b>Harsh Shukla</b>
       <br/><sub>2407370130031</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
         <img src="profile/Ansh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
       </a>
-      <br/><br/><b>Ansh Jaiswal</b>
+      <br/><b>Ansh Jaiswal</b>
       <br/><sub>2407370130022</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
         <img src="profile/Gagan.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
       </a>
-      <br/><br/><b>Gagan Kumar</b>
+      <br/><b>Gagan Kumar</b>
       <br/><sub>2407370130028</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
         <img src="profile/Rishi.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Rishi Kumar Pathak" />
       </a>
-      <br/><br/><b>Rishi Kumar Pathak</b>
+      <br/><b>Rishi Kumar Pathak</b>
       <br/><sub>2407370130050</sub>
     </td>
   </tr>
@@ -57,21 +57,21 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
       <a href="#">
         <img src="profile/adarsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Adarsh Kasaudhan" />
       </a>
-      <br/><br/><b>Adarsh Kasaudhan</b>
+      <br/><b>Adarsh Kasaudhan</b>
       <br/><sub>2407370130005</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
         <img src="profile/Abhishek.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhishek Paswan" />
       </a>
-      <br/><br/><b>Abhishek Paswan</b>
+      <br/><b>Abhishek Paswan</b>
       <br/><sub>2407370130003</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
         <img src="profile/Abhinav.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhinav Arya" />
       </a>
-      <br/><br/><b>Abhinav Arya</b>
+      <br/><b>Abhinav Arya</b>
       <br/><sub>2407370130001</sub>
     </td>
   </tr>
