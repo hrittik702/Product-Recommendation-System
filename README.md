@@ -14,64 +14,62 @@
 
 </div>
 
----
 
-## `// OUR TEAM`
+## OUR TEAM
 This project was built collaboratively by a team of **7 members** from [Rajkiya Engineering College, Ambedkar Nagar](https://recabn.ac.in/).
 
 <div align="center">
-<br/>
 
 <table>
   <tr valign="top">
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Harsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Harsh Shukla" />
+        <img src="profile/harsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Harsh Shukla" />
       </a>
       <br/><br/><b>Harsh Shukla</b>
       <br/><sub>2407370130031</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Ansh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
+        <img src="profile/ansh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Ansh Jaiswal" />
       </a>
       <br/><br/><b>Ansh Jaiswal</b>
       <br/><sub>2407370130022</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Gagan.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
+        <img src="profile/gagan.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Gagan Kumar" />
       </a>
       <br/><br/><b>Gagan Kumar</b>
       <br/><sub>2407370130028</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Rishi.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Rishi Kumar Pathak" />
+        <img src="profile/rishi.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Rishi Kumar Pathak" />
       </a>
       <br/><br/><b>Rishi Kumar Pathak</b>
       <br/><sub>2407370130050</sub>
     </td>
-  </tr>
+  </tr>```bash
 
   <tr valign="top">
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Adarsh.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Adarsh Kasaudhan" />
+        <img src="profile/adarsh.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Adarsh Kasaudhan" />
       </a>
       <br/><br/><b>Adarsh Kasaudhan</b>
       <br/><sub>2407370130005</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Abhishek.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhishek Paswan" />
+        <img src="profile/Abhishek.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhishek Paswan" />
       </a>
       <br/><br/><b>Abhishek Paswan</b>
       <br/><sub>2407370130003</sub>
     </td>
     <td align="center" width="160">
       <a href="#">
-        <img src="profile/Abhinav.jpeg" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhinav Arya" />
+        <img src="profile/Abhinav.png" width="80" height="80" style="border-radius: 50%; object-fit: cover;" alt="Abhinav Arya" />
       </a>
       <br/><br/><b>Abhinav Arya</b>
       <br/><sub>2407370130001</sub>
@@ -81,13 +79,13 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 
 </div>
 
-## `// OVERVIEW`
+## OVERVIEW
 
 > The **Product Recommendation System** helps users discover products that match their preferences and interests. It combines **Collaborative Filtering** (based on similar users) and **Content-Based Filtering** (based on product attributes) to deliver accurate, personalized suggestions from a custom-built CSV dataset — all through an interactive **Streamlit** web interface.
 
 ---
 
-## `// FEATURES`
+## FEATURES
 
 | Icon | Feature | Description |
 |:---:|---|---|
@@ -99,7 +97,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 
 ---
 
-## `// TECH STACK`
+## TECH STACK
 
 | Technology | Purpose | Version |
 |---|---|---|
@@ -111,7 +109,7 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 
 ---
 
-## `// SYSTEM ARCHITECTURE & FLOW`
+## SYSTEM ARCHITECTURE & FLOW
 ```text
                   +------------------+
                   |  Custom CSV Data |
@@ -152,7 +150,7 @@ Collaborative Filtering: Focuses on user interactions and historical behaviors. 
 
 ---
 
-## `// APPLICATION INTERFACE`
+## APPLICATION INTERFACE
 
 *Once your app is running locally, capture screenshots of your Streamlit UI, drop them inside a folder named `screenshots/` in your repository, and update the paths below:*
 
@@ -172,7 +170,7 @@ Collaborative Filtering: Focuses on user interactions and historical behaviors. 
 
 ---
 
-## `// PROJECT STRUCTURE`
+## PROJECT STRUCTURE
 ```text
 📁 Product-Recommendation-System/
 │
@@ -187,24 +185,30 @@ Collaborative Filtering: Focuses on user interactions and historical behaviors. 
 ```
 ---
 
-## `// SETUP & INSTALLATION`
+## SETUP & INSTALLATION
 
+### Step 1: Clone the repository
 ```bash
-# ── Step 1: Clone the repository ──────────────────────────────
-git clone [https://github.com/Harshtaker/Product-Recommendation-System.git](https://github.com/Harshtaker/Product-Recommendation-System.git)
-
-# ── Step 2: Move into the project folder ──────────────────────
-cd Product-Recommendation-System
-
-# ── Step 3: Install all dependencies ──────────────────────────
-pip install -r requirements.txt
-
-# ── Step 4: Launch the Streamlit app ──────────────────────────
-streamlit run app.py
-
-# ── Open browser at ───────────────────────────────────────────
-# http://localhost:8501
+git clone https://github.com/Harshtaker/Product-Recommendation-System.git
 ```
+
+### Step 2: Move into the project folder 
+```bash
+cd Product-Recommendation-System
+```
+
+### Step 3: Install all dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Launch the Streamlit app
+```bash
+python -m streamlit run app.py
+```
+### Open browser at 
+http://localhost:8501
+
 
 
 ## 📄 License
